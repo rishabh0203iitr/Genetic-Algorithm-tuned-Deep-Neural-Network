@@ -1,22 +1,33 @@
 # Genetic Algorithm tuned Deep Neural Network
  using Genetic Algorithm to optimize the weights in a deep neural network
 
+
 This program aims to train a neural network for classification, on MNIST dataset.
+
 
 GA-parameters
 
+
 Size of population - 20
+
 Number of generations - 1000
+
 Mutation probability - 0.1%
+
 Crossover type - realsbx
+
 
 
 Neural Network architecture
 
 Input layer - 200
+
 Hidden layer 1 - 150
+
 Hidden layer 2 - 60
+
 Output layer - 10
+
 
 
 Result
