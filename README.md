@@ -1,5 +1,5 @@
 # Genetic Algorithm tuned Deep Neural Network
- using Genetic Algorithm to optimize the weights in a deep neural network
+ Using Genetic Algorithm to optimize the weights in a deep neural network
 
 
 This program aims to train a neural network for classification, on MNIST dataset.
