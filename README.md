@@ -13,7 +13,6 @@ pymoo
 ```
 pip install numpy
 pip install pymoo
-
 ```
 
 ### Training the Model
