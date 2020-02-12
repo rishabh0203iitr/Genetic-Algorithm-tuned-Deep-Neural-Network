@@ -7,6 +7,7 @@ Using Genetic Algorithm to optimize the weights in a deep neural network for cla
 Before running the code install the following python libraries
 
 numpy
+
 pymoo
 
 ```
