@@ -26,12 +26,12 @@ The Neural Network reaches 60% training accuracy in about 600 generations, which
 result considering the initial population size is just 20.
 If the population size is increased to about 100, we may get close to 90% training accuracy.
 
-## Authors
+### Authors
 
 * **Yash Vardhan Sharma** 
 * **Rishabh Sharma** - *Initial work* 
 
-## Acknowledgments
+### Acknowledgments
 
 * Ahmed Ghad
 * Ali Ghodsi
