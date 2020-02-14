@@ -30,7 +30,7 @@ If the population size is increased to about 100, we may get close to 90% traini
 ### Authors
 
 * **Yash Vardhan Sharma** 
-* **Rishabh Sharma** - *Initial work* 
+* **Rishabh Sharma**
 
 ### Acknowledgments
 
